@@ -70,7 +70,7 @@ Brain dump. Unfiltered. Some of this will happen, some won't. The engine tells u
 - [ ] **Performance stats** — draw call count, triangle count, frame time graph
 - [ ] **Entity scripting** — simple scripting for map events (trigger chains, delays, sequences)
 
-## Vibe (the dread)
+## Random potentials?
 
 - [ ] **Sanity / paranoia system** — visual distortion, audio hallucinations based on exposure
 - [ ] **Procedural disturbances** — lights flicker when something is near, doors creak open on their own
