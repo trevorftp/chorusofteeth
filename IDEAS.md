@@ -7,7 +7,7 @@ Brain dump. Unfiltered. Some of this will happen, some won't. The engine tells u
 ## Near-term (the bones)
 
 - [ ] **HUD crosshair** — simple dot or custom reticle, toggleable
-- [ ] **Interaction prompt** — "Press E" appears when looking at a usable entity
+- [X] **Interaction prompt** — "Press E" appears when looking at a usable entity
 - [ ] **Sound effects** — door open/close, footsteps, ambient drones
 - [ ] **Ambient sound entities** — place looping sounds in the map (dripping, humming, breathing)
 - [ ] **Music system** — layered tracks that shift based on danger/area
@@ -18,12 +18,12 @@ Brain dump. Unfiltered. Some of this will happen, some won't. The engine tells u
 ## Visual (the skin)
 
 - [ ] **Post-processing pass** — chromatic aberration, film grain, vignette
-- [ ] **Decal system** — blood splatters, scratches, scorch marks on walls
-- [ ] **Sprite entities** — billboard sprites for items, decorations, enemies
+- [X] **Decal system** — blood splatters, scratches, scorch marks on walls
+- [X] **Sprite entities** — billboard sprites for items, decorations, enemies
 - [ ] **Sprite animation** — frame-based with directional facing (8-angle)
 - [ ] **Particle system** — dust, sparks, flies, dripping water, fog wisps
-- [ ] **Dynamic shadows** — shadow volumes or shadow maps from point lights
-- [ ] **Light flicker patterns** — Quake-style configurable flicker strings
+- [X] **Dynamic shadows** — shadow volumes or shadow maps from point lights
+- [X] **Light flicker patterns** — Quake-style configurable flicker strings
 - [ ] **Skybox / sky entity** — scrolling void texture or solid color sky
 
 ## Gameplay (the meat)
