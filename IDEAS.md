@@ -17,10 +17,7 @@ Brain dump. Unfiltered. Some of this will happen, some won't. The engine tells u
 
 ## Visual (the skin)
 
-- [ ] **Post-processing pass** — CRT scanlines, chromatic aberration, film grain, vignette
-- [ ] **Palette quantization** — reduce rendered colors to a limited palette (PS1 / PSX vibes)
-- [ ] **Vertex jitter** — snap vertices to a low-res grid for that PS1 wobble
-- [ ] **Affine texture mapping** — disable perspective correction for retro warping
+- [ ] **Post-processing pass** — chromatic aberration, film grain, vignette
 - [ ] **Decal system** — blood splatters, scratches, scorch marks on walls
 - [ ] **Sprite entities** — billboard sprites for items, decorations, enemies
 - [ ] **Sprite animation** — frame-based with directional facing (8-angle)
@@ -31,7 +28,7 @@ Brain dump. Unfiltered. Some of this will happen, some won't. The engine tells u
 
 ## Gameplay (the meat)
 
-- [ ] **Weapon system** — viewmodel rendering, melee + ranged, ammo
+- [ ] **Weapon system** — viewmodel rendering
 - [ ] **Inventory** — keys, items, notes, limited slots
 - [ ] **Health system** — damage, healing items, death state
 - [ ] **Enemy AI** — pathfinding, patrol, chase, attack states
